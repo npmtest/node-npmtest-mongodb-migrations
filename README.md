@@ -1,6 +1,6 @@
 # npmtest-mongodb-migrations
 
-#### test coverage for  [mongodb-migrations (v0.8.5)](https://github.com/emirotin/mongodb-migrations)  [![npm package](https://img.shields.io/npm/v/npmtest-mongodb-migrations.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongodb-migrations) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongodb-migrations.svg)](https://travis-ci.org/npmtest/node-npmtest-mongodb-migrations)
+#### basic test coverage for  [mongodb-migrations (v0.8.5)](https://github.com/emirotin/mongodb-migrations)  [![npm package](https://img.shields.io/npm/v/npmtest-mongodb-migrations.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongodb-migrations) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongodb-migrations.svg)](https://travis-ci.org/npmtest/node-npmtest-mongodb-migrations)
 
 #### A migration framework for MongoDB
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-mongodb-migrations/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-mongodb-migrations/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-mongodb-migrations/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-mongodb-migrations/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-mongodb-migrations/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-mongodb-migrations/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-mongodb-migrations/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-mongodb-migrations/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-mongodb-migrations/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-mongodb-migrations/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-mongodb-migrations/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-mongodb-migrations/build/coverage.html/index.html)
 

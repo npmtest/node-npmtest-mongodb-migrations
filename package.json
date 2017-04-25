@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [mongodb-migrations (v0.8.5)](https://github.com/emirotin/mongodb-migrations)  [![npm package](https://img.shields.io/npm/v/npmtest-mongodb-migrations.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongodb-migrations) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongodb-migrations.svg)](https://travis-ci.org/npmtest/node-npmtest-mongodb-migrations)",
+    "description": "#### basic test coverage for  [mongodb-migrations (v0.8.5)](https://github.com/emirotin/mongodb-migrations)  [![npm package](https://img.shields.io/npm/v/npmtest-mongodb-migrations.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongodb-migrations) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongodb-migrations.svg)](https://travis-ci.org/npmtest/node-npmtest-mongodb-migrations)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "mongodb-migrations": "*",
@@ -36,5 +36,5 @@
         "start": "PORT=${PORT:-8080} utility2 start test.js",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "2017.4.25"
 }
